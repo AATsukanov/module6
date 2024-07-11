@@ -1,30 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c921ba1-c147-45b2-aed3-70290d56435f" name="Changes" comment="" />
+    <list default="true" id="8c921ba1-c147-45b2-aed3-70290d56435f" name="Changes" comment="добавлено решение задачи 6.3, есть вопрос в строке 55">
+      <change afterPath="$PROJECT_DIR$/botau-arcade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module6hard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/module6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/module6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2ijcP4oq3jTmgYfAfVNCFQJJ2fy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.botau-arcade.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\YandexDisk\Urban University 2024\module6" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -41,6 +69,46 @@
       <option name="presentableId" value="Default" />
       <updated>1720007399689</updated>
     </task>
+    <task id="LOCAL-00001" summary="task 6.1">
+      <option name="closed" value="true" />
+      <created>1720007694908</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720007694908</updated>
+    </task>
+    <task id="LOCAL-00002" summary="добавлено решение задачи 6.1, не уверен в строке 118">
+      <option name="closed" value="true" />
+      <created>1720010392527</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720010392527</updated>
+    </task>
+    <task id="LOCAL-00003" summary="добавлено решение задачи 6.2, есть вопрос в строке 81">
+      <option name="closed" value="true" />
+      <created>1720023625105</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720023625105</updated>
+    </task>
+    <task id="LOCAL-00004" summary="добавлено решение задачи 6.3, есть вопрос в строке 55">
+      <option name="closed" value="true" />
+      <created>1720118544510</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720118544510</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task 6.1" />
+    <MESSAGE value="добавлено решение задачи 6.1, не уверен в строке 118" />
+    <MESSAGE value="добавлено решение задачи 6.2, есть вопрос в строке 81" />
+    <MESSAGE value="добавлено решение задачи 6.3, есть вопрос в строке 55" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавлено решение задачи 6.3, есть вопрос в строке 55" />
   </component>
 </project>
